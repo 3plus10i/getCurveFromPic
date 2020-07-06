@@ -1,4 +1,4 @@
-function f = getCurveFromPic2(picfile)
+function f = getCurveFromPic(picfile)
 % 从图像识别函数曲线（无交互）
 % 增加了对空值和多值的初步自动处理方法
 % 增加了对截图左右的裁剪处理（归为空值）
